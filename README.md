@@ -9,7 +9,7 @@ mock dispatch tool, optional STT/TTS.
 - **Mock tool**: `dispatch_resources()` returns simulated dispatch info
 - **TTS**: offline via `pyttsx3`
 - **STT (optional)**: offline via `vosk` (if model installed)
-- **AI model (optional)**: GPT 4o Mini Via GapGPT API
+- **AI model**: GPT 4o Mini Via GapGPT API
 
 ## Quick Start (Text I/O, no heavy deps)
 ```bash
