@@ -1,4 +1,4 @@
-# RescueHub — Part 2 (Coding Task)
+# RescueHub
 
 Minimal end-to-end demo: two collaborating agents (Fire, Medical) with multi-turn logic,
 mock dispatch tool, optional STT/TTS.
